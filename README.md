@@ -1,3 +1,5 @@
+https://travis-ci.org/tekdreams/embed-url.svg?branch=master
+
 Embed Url 
 =========
 
