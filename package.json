@@ -1,0 +1,44 @@
+{
+  "name": "embed-url",
+  "version": "0.0.2",
+  "description": "Extract and embed content from third party providers",
+  "main": "embedurl.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tekdreams/embed-url.git"
+  },
+  "engines": {
+  "node": ">=4.3.2"
+},
+  "keywords": [
+    "embed",
+    "embed-url",
+    "url",
+    "providers",
+    "extractUrl",
+    "extract-url",
+    "embedUrl",
+    "thirdParty",
+    "media",
+    "provider"
+  ],
+  "author": "Galonde Matthieu <galonde.matthieu@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tekdreams/embed-url/issues"
+  },
+  "homepage": "https://github.com/tekdreams/embed-url#readme",
+  "dependencies": {
+    "flickr-with-uploads": "2.0.4",
+    "instagram-private-api": "0.5.16",
+    "mocha": "3.4.1",
+    "n-vimeo": "0.3.0",
+    "pinterest-api": "1.1.4",
+    "request": "~2.81.0",
+    "string": "~3.3.3",
+    "winston": "~2.3.1"
+  }
+}
