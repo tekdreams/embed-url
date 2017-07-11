@@ -1,4 +1,4 @@
-https://travis-ci.org/tekdreams/embed-url.svg?branch=master
+[![Build Status](https://travis-ci.org/tekdreams/embed-url.svg?branch=master)](https://travis-ci.org/tekdreams/embed-url)
 
 Embed Url 
 =========
