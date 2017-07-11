@@ -1,6 +1,6 @@
 {
   "name": "embed-url",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Extract and embed content from third party providers",
   "main": "embedurl.js",
   "scripts": {

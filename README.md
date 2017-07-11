@@ -71,7 +71,6 @@ embedurl.url(URL_TO_EXTRACT)
     	// errors will bubble up through the reject method of the promise.
         // you'll want to console.log them otherwise it'll fail silently
     })
-});
 ```
 
 The `result` returned in from the promise will be a `Result` object.
