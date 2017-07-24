@@ -26,7 +26,7 @@
     "provider"
   ],
   "author": "Galonde Matthieu <galonde.matthieu@gmail.com>",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/tekdreams/embed-url/issues"
   },

@@ -50,7 +50,7 @@ How to get the credentials:
 
 - Youtube: https://developers.google.com/youtube/v3/getting-started
 
-This wrapper utilizes ES6 Promises to handle the API calls.
+This module utilizes ES6 Promises to handle the API calls.
 
 ## Usage
 
@@ -65,11 +65,12 @@ To extract datas from a single url use the following...
 embedurl.url(URL_TO_EXTRACT)
     .then(result => {
     	// do stuff
-    	// console.log("Embed url", result.embedUrl)
+    	console.log("Embed url", result)
     })
     .catch(error => {
     	// errors will bubble up through the reject method of the promise.
         // you'll want to console.log them otherwise it'll fail silently
+        console.log("Error", error)
     })
 ```
 
