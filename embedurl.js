@@ -1,3 +1,4 @@
+"use strict"
 const manageMedia = require('./lib/manage_media.js');
 const logger = require(__dirname+'/util/logger');
 

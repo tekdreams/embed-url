@@ -1,3 +1,4 @@
+"use strict"
 const embedurl = require('../embedurl.js');
 
   describe('Embed url endpoints test', function() {

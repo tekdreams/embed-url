@@ -1,6 +1,6 @@
-
+"use strict"
 exports.providerError = function(provider, error) {
-	var error = {
+	const error = {
 		'provider': provider,
 		'error': error ? error : 'invalid url'
 	};

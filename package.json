@@ -1,6 +1,6 @@
 {
   "name": "embed-url",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Extract and embed content from third party providers",
   "main": "embedurl.js",
   "scripts": {
@@ -11,8 +11,8 @@
     "url": "git+https://github.com/tekdreams/embed-url.git"
   },
   "engines": {
-  "node": ">=4.3.2"
-},
+    "node": ">=4.3.2"
+  },
   "keywords": [
     "embed",
     "embed-url",

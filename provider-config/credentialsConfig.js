@@ -1,3 +1,4 @@
+"use strict"
 const conf = {
 	flickr: {
 		consumer_key: "YOUR_FLICKR_CONSUMER_KEY",
